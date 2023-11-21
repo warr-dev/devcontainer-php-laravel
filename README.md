@@ -11,7 +11,7 @@ includes:
 - docker compose
 - local vscode with devcontainer extension installed 
 
-## Installation
+## Usage
 - clone this repo
 - open in vscode (make sure to have [devcontainer](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) extension) 
 - click the remote option at left bottom
